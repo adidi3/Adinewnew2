@@ -28,6 +28,7 @@ public class MainActivity extends AppCompatActivity {
         eivar1 = (EditText) findViewById(R.id.editText);
         heformac = (EditText) findViewById(R.id.editText2);
 
+
     }
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {

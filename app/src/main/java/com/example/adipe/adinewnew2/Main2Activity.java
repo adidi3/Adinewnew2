@@ -114,6 +114,7 @@ public class Main2Activity extends AppCompatActivity implements AdapterView.OnIt
             return super.onOptionsItemSelected(item);
         }
 
+
     public void backk(View view) {
             Intent r=new Intent(this, MainActivity.class);
             startActivity(r);
